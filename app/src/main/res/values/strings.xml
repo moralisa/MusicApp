@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_download">Download</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_myMusic">My Music</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_unknown">Unknown</string>
+</resources>
